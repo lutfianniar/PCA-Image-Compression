@@ -58,6 +58,6 @@ streamlit run src/app.py
 ---
 
 ## 👥 Anggota Kelompok (Kelompok 4)
-### 1. Annisa Salma Tabina (L0125004)
-### 2. Lutfiannisa Tri Yuniarti (L0125020)
-### 3. Gita Florensia Adi (L0125101)
+1. Annisa Salma Tabina (L0125004)
+2. Lutfiannisa Tri Yuniarti (L0125020)
+3. Gita Florensia Adi (L0125101)
