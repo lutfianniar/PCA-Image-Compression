@@ -45,13 +45,15 @@ streamlit run src/app.py
 ---
 
 ## 📁 Struktur Direktori
-PCA-Image-Compression/
-│
+
+```text
+.
 ├── src/
-│   ├── frontend.py        # File Utama Frontend
-│   └── backend.py         # File Logika Murni PCA & Hitungan Metrik
+│   ├── app.py             # File Utama Frontend (Streamlit & CSS Custom)
+│   └── backend.py         # File Logika Murni PCA & Hitungan Metrik (NumPy)
 │
 └── README.md              # Dokumentasi Proyek GitHub
+```
 
 ---
 
